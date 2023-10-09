@@ -1,0 +1,1 @@
+{"code":200,"status":"OK","data":{"FunctionName":"RequestServer","Revision":21,"FunctionResult":{"serverIP":"172.173.210.141","port":30071,"customResult":0},"Logs":[],"ExecutionTimeSeconds":0.183022,"ProcessorTimeSeconds":0.001117,"MemoryConsumedBytes":8336,"APIRequestsIssued":1,"HttpRequestsIssued":0}}
