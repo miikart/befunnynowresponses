@@ -1,4 +1,4 @@
-# befunnynowresponses
+# be funnynow responses
 Be funny now Game Server Responses.
 
 # how 2 use:
