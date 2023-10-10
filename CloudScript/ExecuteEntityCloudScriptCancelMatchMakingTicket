@@ -1,0 +1,1 @@
+{"code":200,"status":"OK","data":{"FunctionName":"CancelMatchmakingTicket","Revision":21,"FunctionResult":{"customResult":0},"Logs":[],"ExecutionTimeSeconds":0.1885291,"ProcessorTimeSeconds":0.00184,"MemoryConsumedBytes":9528,"APIRequestsIssued":1,"HttpRequestsIssued":0}}
