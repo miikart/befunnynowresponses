@@ -1,0 +1,1 @@
+{"code":200,"status":"OK","data":{"ExecutionTimeMilliseconds":1302,"FunctionName":"Configuration_GetEnvironment","FunctionResult":{"environment":"standard_live","storeCatalogVersion":"2.0"}}}
