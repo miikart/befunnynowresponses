@@ -1,5 +1,6 @@
 # be funnynow responses
 Be funny now Game Server Responses.
+# ![image](http://miikart.co/img/whale_jSX8aDoyq7.png)
 
 # how 2 use:
 Put it on a web server and somehow trick the game into loading stuff from your domain or IP.
