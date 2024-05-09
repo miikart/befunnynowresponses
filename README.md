@@ -8,7 +8,7 @@ Put it on a web server and somehow trick the game into loading stuff from your d
 Note that this will not help hosting servers, as that's different.
 
 but Be Funny Now uses Ubuntu as an OS. with UDP as the hosting method.
-Note also that 'Login Into Steam' does not work  as Be FUnny Now Probably does something under the hood.
+Note also that 'Login Into Steam' does not work  as BFN  does something under the hood.
 
 
 # how 2 view requests
