@@ -1,5 +1,9 @@
-# be funnynow responses
-Be funny now Game Server Responses.
+# be funnynow WEB responses
+Be funny now Game WEB Server Responses.
+# as of 6/16/2024 BFN has shutdown.
+# you MAY have to clear your gamedata for your url/shit to work.
+# i recommend using fiddler auto responser w/ https enabled if you just wanna test & purly static serving. ( GAME SERVERS WILL NOT WORK!!!!!!!!!!!!!!!!)
+## MOST is for PC, i still have 0 clue on how to get this working on any mobile devices.
 # ![image](http://miikart.co/img/whale_jSX8aDoyq7.png)
 
 # how 2 use:
